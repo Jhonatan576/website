@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <!-- Plantilla de sitio de tres columnas en HTML5 -->
 <head>
