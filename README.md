@@ -45,11 +45,8 @@
                 <div class="side-wrapper">
                   <div class="side-title">𝗙𝗔𝗩𝗢𝗥𝗜𝗧𝗘❤</div>
                   <div class="side-menu">
-                    
-                    <a href="pagina/index.html">XATSPACES</a>
-            
-                    <a href="luna.html">LUNA❤</a>
-                    
+                  <a href="pagina/index.html">XATSPACES</a>
+             <a href="luna.html">LUNA❤</a> 
                   </div>
                 </div>
                 <a href="https://discordapp.com/users/1044904232534425690" class="follow-me" target="_blank">
@@ -121,27 +118,23 @@
                         </div>
                       </div>
                       <div class="pages box">
-                        <div class="intro-title">
-                          
+                        <div class="intro-title>
                           <button class="intro-menu"></button>
                         </div>
                         <div class="user">
                           <img src="https://i.pinimg.com/564x/35/b7/68/35b768b6a6c5a0ba31c858be6e90eb8d.jpg" alt="" class="user-img">
                           <div class="username">-Usseles.</div>
                         </div>
-                        
                       </div>
                     </div>
-            
                     <!-- inicio do centro -->
-            
                     <div class="timeline-right">
                       <div class="status box">
                         <div class="status-menu">
                           <a class="status-menu-item active" href="#">Status</a>
                           <a class="status-menu-item" href="luna.html">Photos</a>
-                          
-                        </div>
+                     
+                        </div> 
                         <div class="status-main">
                           <img src="https://xatimg.com/image/wtCJkoBt5m8T.png?v=4" class="status-img">
                           <textarea class="status-textarea" placeholder="write something to 𝗔𝗥𝗧𝗛.."></textarea>
@@ -305,6 +298,8 @@
             </div>
         </div>
       </div>
+
+      
   </div>
   <script src="./index.js"></script>
   
